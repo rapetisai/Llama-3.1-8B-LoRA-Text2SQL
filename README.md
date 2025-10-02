@@ -56,6 +56,7 @@ This model learns to **translate instructions into SQL queries**, making databas
 ## 📉 Training Loss
 
 The curve below is from the fine-tuning run (max_steps=1000, lr=2e-5, batch_size=4).
+![Training Loss](assets/loss_curve.png)
 
 ## 🔮 Future Work
 
